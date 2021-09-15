@@ -1,0 +1,47 @@
+body {
+    background-color: #323232;
+}
+
+h1 {
+    position: absolute;
+    font-size: 100px;
+    color: white;
+    top: 30%;
+    left: 600px;
+    right: 350px;
+}
+
+button {
+    padding: 15px;
+    margin: 20px;
+    color: white;
+    background-color: #323232;
+    cursor: pointer;
+}
+
+#ajude {
+    position: absolute;
+    right: 5px;
+}
+
+#e_e_c {
+    position: absolute;
+    right: 100px;
+}
+
+#sobre {
+    position: absolute;
+    right: 265px;
+}
+
+#button {
+    position: absolute;
+    top: 55%;
+    left: 610px;
+    right: 350px;
+}
+
+h2 {
+    color: white;
+    font-size: 20px;
+}

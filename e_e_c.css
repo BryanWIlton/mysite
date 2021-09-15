@@ -1,0 +1,28 @@
+body {
+    background-color: #323232;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+h2  {
+    text-align: center;
+    color: white;
+}
+
+p  {
+    text-align: center;
+    color: white;
+}
+
+button {
+    position: absolute;
+    right: 625px;
+    padding: 15px;
+    margin: 20px;
+    color: white;
+    background-color: #323232;
+    cursor: pointer;
+}
